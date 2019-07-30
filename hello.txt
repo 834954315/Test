@@ -1,0 +1,2 @@
+hello git 
+这是一个txt文件。
