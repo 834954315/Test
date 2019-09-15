@@ -2,4 +2,8 @@ this is the second_branch
 
 1111111111
 222222222
+<<<<<<< HEAD
 444444444444
+=======
+333333333333333
+>>>>>>> refs/remotes/origin/second
