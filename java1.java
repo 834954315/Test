@@ -5,6 +5,8 @@ import java.util.Comparator;
 public class test implements Comparable,Comparator{
 	public void test(){
 		System.out.println("111111111111111111")
+		System.out.println("3333333333333333333333")
+		
 		 
 	
 	}
