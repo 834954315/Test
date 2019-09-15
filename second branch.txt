@@ -1,1 +1,5 @@
 this is the second branch
+
+now£¬merge the second branch to the masterbranch
+
+this is the master branch /second branch.txt
